@@ -1,0 +1,14 @@
+
+body {
+    background-color: aqua;
+}
+    .bovenkant {
+        background: orange; }
+        .bovenkant  {
+          color: blue;
+          font-size: 14px;
+          font-weight: bold; 
+          font-family: 'Major Mono Display', monospace;
+}
+
+
