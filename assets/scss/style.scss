@@ -1,4 +1,17 @@
-@import "style.css"
+@import "style.css";
 
 // dit is mijn allereerste scss hidden comment 
 // de eerste maar zeker niet de laatste
+body {
+    background-color: green;
+}
+
+    .bovenkant {
+        background: orange; }
+        .bovenkant  {
+          color: blue;
+          font-size: 14px;
+          font-weight: bold; 
+          font-family: 'Major Mono Display', monospace;
+        }
+        
